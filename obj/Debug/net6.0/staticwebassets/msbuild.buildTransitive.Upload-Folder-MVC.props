@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Upload-Folder-MVC.props" />
+</Project>
