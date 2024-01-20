@@ -49,8 +49,8 @@ Follow these steps to set up and run ExcelFile ASP.NET Core MVC locally:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kareemosama/ExcelFile_ASPDotNetCoreMVC-.git
-   cd ExcelFile_ASPDotNetCoreMVC-
+   git clone https://github.com/kareemosama/ExcelFile_ASPDotNetCoreMVC.git
+   cd ExcelFile_ASPDotNetCoreMVC
    ```
 
 2. **Restore Packages:**
